@@ -1,0 +1,12 @@
+{
+  "name": "cadabra-skills",
+  "owner": { "name": "Cadabra AI" },
+  "metadata": { "description": "Cadabra AI skills: films, viral remakes, dramas, music videos, ads, product shoots, covers and decks, checked frame by frame." },
+  "plugins": [
+    {
+      "name": "cadabra-skills",
+      "source": "./",
+      "description": "Ten Cadabra AI skills that make results you can post, on the Cadabra AI connector."
+    }
+  ]
+}
