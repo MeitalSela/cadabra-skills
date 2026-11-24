@@ -37,6 +37,15 @@ is the cheapest moment to make it bolder.
   their own words (never your rewrite), their photos in the typed slots (cast,
   product, place, look), their engine if they named one. The preview is free; show the
   idea line, the shots and every resolution price; offer "bolder" (bolder:true, free).
+- **Read the free preview's hookCheck before you show any price.** It lists what is
+  wrong with the plan (OPENING IS SETUP or UNCLEAR, FIRST CUT IS LATE, REPEATED SHOT,
+  PREMISE LOST, an ending that answers its question). The planner repairs a plan only
+  once on its own and often does not manage it, so you finish the job: call
+  cadabra_make_film again with change set to the exact notes, in the creator's words
+  ("shot 2 repeats shot 1: give it a new event; the starter must visibly talk in shot
+  1"), free. Up to two rounds, then show the creator the plan with what is still
+  weak said in one line, never a plan you know repeats itself. Check that the idea's
+  own central event is on screen in the first two shots.
 - The creator has their own shots or wants to build it with you: shot by shot with
   cadabra_generate_video (or many at once with cadabra_mission and a budget), then
   cadabra_assemble.
