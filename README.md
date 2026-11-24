@@ -2,13 +2,16 @@
 
 **Skills that make results you can post, not prompts you have to fix.**
 
-Thirteen skills for Claude, ChatGPT and Claude Code that run on the [Cadabra AI](https://www.livinginmovie.com) connector: films, viral remakes, micro dramas, music videos, UGC ads, product photoshoots, covers and decks, in Hebrew and English.
+Sixteen skills for Claude, ChatGPT and Claude Code that run on the [Cadabra AI](https://www.livinginmovie.com) connector: films, viral remakes, micro dramas, music videos, UGC ads, product photoshoots, covers and decks, in Hebrew and English.
 
 | Skill | What it makes |
 | --- | --- |
 | `cadabra-first-steps` | For anyone new: one question, three ideas made for them, a first result in minutes |
 | `cadabra-picture-maker` | Any picture, with the right engine for the job (your face, Hebrew text, a product) |
 | `cadabra-video-maker` | Any clip: which video engine to use, and how to turn a picture into a video that moves like it was shot |
+| `cadabra-talking-avatar` | Your own face speaking your script, the reading heard before anything is filmed, proof on screen while it talks |
+| `cadabra-voice-studio` | Narration, voiceover, character voices and dialogue that sound performed, Hebrew pronounced right |
+| `cadabra-own-film` | Your own script or shots, built shot by shot, one look and one cast held, each shot checked before the next |
 | `cadabra-film-director` | A short film, trailer or story reel from one idea to a finished edit |
 | `cadabra-viral-remake` | Your own version of a viral video, on its measured rhythm |
 | `cadabra-micro-drama` | Vertical drama episodes with a cast that stays the same |
@@ -53,7 +56,7 @@ Reading, planning and checking are free. Anything that generates (pictures, vide
 
 **סקילים שמוציאים תוצאה שאפשר לפרסם, לא פרומפט שצריך לתקן.**
 
-13 סקילים ל-Claude, ל-ChatGPT ול-Claude Code שעובדים דרך הקונקטור של [Cadabra AI](https://www.livinginmovie.com): סרטים, רימייק לסרטון ויראלי, מיקרו דרמות, קליפים מוזיקליים, פרסומות UGC, צילומי מוצר, קאברים ומצגות, בעברית ובאנגלית.
+16 סקילים ל-Claude, ל-ChatGPT ול-Claude Code שעובדים דרך הקונקטור של [Cadabra AI](https://www.livinginmovie.com): סרטים, רימייק לסרטון ויראלי, מיקרו דרמות, קליפים מוזיקליים, פרסומות UGC, צילומי מוצר, קאברים ומצגות, בעברית ובאנגלית.
 
 ## למה התוצאות אחרות
 
