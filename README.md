@@ -1,5 +1,14 @@
 # Cadabra AI Skills
 
+> **Make it for real, in two minutes**
+>
+> 1. [Connect Cadabra AI to Claude or ChatGPT](https://www.livinginmovie.com/guides/cadabra-mcp?lang=en&utm_source=github&utm_medium=readme&utm_campaign=connect). Every skill below is already built in, nothing to install.
+> 2. Say what you want: a film, an ad, a talking avatar, a month of posts.
+> 3. See the price, say yes. Planning and checking are free, and a failed generation refunds itself.
+>
+> [Browse every skill with examples](https://www.livinginmovie.com/skills/?utm_source=github&utm_medium=readme&utm_campaign=skills_page) · [Start in the studio](https://www.livinginmovie.com/en/start?utm_source=github&utm_medium=readme&utm_campaign=start) · [See the packs](https://www.livinginmovie.com/buy/ultra?utm_source=github&utm_medium=readme&utm_campaign=packs)
+
+
 **Skills that make results you can post, not prompts you have to fix.**
 
 Thirty-eight skills for Claude, ChatGPT and Claude Code that run on the [Cadabra AI](https://www.livinginmovie.com) connector: films, viral remakes, micro dramas, music videos, UGC ads, product photoshoots, covers and decks, in Hebrew and English.
