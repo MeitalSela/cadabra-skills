@@ -29,6 +29,9 @@ a film the preview's own hook notes. Nothing here spends.
 - **A prompt that fights itself:** two camera moves, an emotion word instead of a
   behaviour, music words in a video prompt, a brand name or logo asked of the model.
 - **No hardest-shot-first:** ten shots queued before one was seen.
+- **A board nobody compared:** stills about to be animated without
+  cadabra_inspect ["continuity"] on them (free): a prop or a sky that disagrees on the
+  board will disagree in the film.
 - **No reference:** a product or face described in words only.
 - **A budget crossed:** the board is over the number they named.
 

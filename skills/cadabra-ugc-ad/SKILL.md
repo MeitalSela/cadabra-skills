@@ -69,7 +69,10 @@ do not argue about them.
    render once. Never re-roll the same prompt unchanged. Two failed fixes: change the
    method (split the shot, simplify the action, make the reference picture first).
    Every fix is a new quote and a new yes.
-6. **Before they post:** cadabra_hook_check (free) on the finished film, then
+6. **Between the shots.** A film of three shots or more: cadabra_inspect include
+   ["continuity"] (free) on the board, on the shots and on the finished film, with the
+   film's facts. The worst faults live between two good shots.
+7. **Before they post:** cadabra_hook_check (free) on the finished film, then
    cadabra_review_film (free). Offer the one fix that matters, with its price.
 
 ## The drift guard (what engines add when nobody forbids it)

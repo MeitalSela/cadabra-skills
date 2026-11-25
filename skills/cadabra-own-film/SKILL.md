@@ -61,6 +61,61 @@ named a length, their music or a song (cadabra_generate_music_v6), sound_design 
 silent shots, and end_card on an ad. Then cadabra_review_film and cadabra_hook_check,
 free, before they post.
 
+## The film spine (any film of three shots or more)
+
+Each stage is shown, approved and checked before the next one is paid for. A mistake
+costs one picture on the board, a whole take after it, and a re-edit at the end, so
+everything is caught as early as it can be seen.
+
+1. **The facts page (free).** Before the shot list, write what must hold, one line each:
+   - every key prop with its PARTS ("the rod: four brass gauges, a lantern, a red grip"),
+     and every state it goes through, with the shot it changes in;
+   - each character's outfit, what they hold and in which hand;
+   - the clock of the film: the sky, sun or moon, window and lamp of every shot, only
+     moving forward;
+   - what has happened and stays happened ("from shot 10 the sun is UP").
+   These lines go into every prompt they touch and into every check below.
+2. **The timed shot list (free).** Per shot: seconds, size, angle, ONE camera move and
+   why, the action and how it ENDS, the sound heard. Then read it as a rhythm: no three
+   shots in a row with the same size, angle and length; the camera moves at least where
+   the feeling changes; the joke or the shock is short, the awe is long. THE MOMENT the
+   story is about (the sun being caught, the box opening, the face that understands) is
+   its own shot, seen happening, never only its before and after.
+3. **The sheets.** One per character (cadabra_character_sheet, or the kept drawing), one
+   per key prop with its parts (cadabra_animation_craft kind "prop"), and one per place
+   FOR EACH light it appears in (cadabra_world_sheet: the same place at night and at
+   dawn are two sheets, the second made from the first as its reference). Save them with
+   cadabra_entities, so @name brings back the same one.
+4. **The board.** One opening frame per shot, every sheet that shot shows attached as a
+   reference (a prop that is only described comes back as a different prop). A shot that
+   must land somewhere also gets its END frame, and the next shot opens from a frame
+   that agrees with it.
+5. **The board check, before one second is animated (free).** cadabra_inspect include
+   ["continuity"], url the first panel, next_urls the rest in order, facts the facts
+   page. Fix every jump on the still. This is the stage others skip.
+6. **The proof.** The hardest shot first, at the cheapest tier (seedance-20-mini, or
+   seedance-25 with draft:true), from its board frame. Only when it holds do the rest go
+   out: cadabra_mission with one item per shot, each with ITS OWN length, image_url its
+   board frame, last_image_url its end frame on an engine that takes one, and the
+   creator's budget_credits as a wall.
+7. **Each shot checked,** then **all of them together:** cadabra_qa_shot per shot, then
+   cadabra_inspect ["continuity"] on the clips in order, before any edit is paid for.
+8. **Sound is half the film.** Music written to the film's own curve, the place's own air
+   under every scene, and a sound on every touch, step and turn of the story: named per
+   shot in the list, placed in the edit (sound_design, or sfx_add and ambience in
+   cadabra_edit_ops). A silence before the big moment is a choice, so make it.
+9. **The edit** once, in their order, with the rhythm from stage 2.
+10. **The last look (free).** cadabra_inspect ["continuity"] on the finished film with the
+    same facts, then cadabra_review_film. Say what was found, shot by shot, with the
+    cheapest fix first. Nothing found is said as "nothing found in the pictures", with
+    the line that stills cannot judge motion or sound.
+11. **The receipt.** What each stage really charged (sheets, board, proof, shots, sound,
+    edit), as it was quoted and approved. Never a guess before, always the facts after.
+
+On a creator's own film the spine never rewrites them: their shots, words and order stay
+exactly theirs. The facts page is read back from THEIR script, and a jump is told to
+them in one line for them to decide.
+
 ## The Cadabra house rules (every skill)
 
 **Money.** Every paid Cadabra tool answers first with a quote. Show the creator that
