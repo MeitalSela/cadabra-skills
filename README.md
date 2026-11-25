@@ -2,7 +2,7 @@
 
 **Skills that make results you can post, not prompts you have to fix.**
 
-Twenty-five skills for Claude, ChatGPT and Claude Code that run on the [Cadabra AI](https://www.livinginmovie.com) connector: films, viral remakes, micro dramas, music videos, UGC ads, product photoshoots, covers and decks, in Hebrew and English.
+Thirty-eight skills for Claude, ChatGPT and Claude Code that run on the [Cadabra AI](https://www.livinginmovie.com) connector: films, viral remakes, micro dramas, music videos, UGC ads, product photoshoots, covers and decks, in Hebrew and English.
 
 | Skill | What it makes |
 | --- | --- |
@@ -21,6 +21,19 @@ Twenty-five skills for Claude, ChatGPT and Claude Code that run on the [Cadabra 
 | `cadabra-content-month` | A month of posts as a consistent series with fixed slots, built from what already worked |
 | `cadabra-brand-and-cast` | One look image, saved characters and a saved style so everything matches |
 | `cadabra-photo-magic` | One photo into the viral looks people share: action figure, poster, trading card, stickers |
+| `cadabra-ad-angles` | Ads that are truly different from each other, copy that fits each platform, and a test plan with one variable |
+| `cadabra-customer-voice` | Hooks and ads written from what real customers say, with how sure each insight is |
+| `cadabra-preflight` | Catch the mistakes that waste a render before paying: Ship, Hold or Block |
+| `cadabra-faceless-explainer` | Narrated explainers in a drawn style, built in timed blocks, as a repeatable channel |
+| `cadabra-virtual-influencer` | An invented character people follow, the same face in every post, honestly labelled AI |
+| `cadabra-edit-by-words` | Cut talking footage by the transcript, check every cut, captions that read |
+| `cadabra-prompt-craft` | How to write the words an engine obeys: shots, behaviour, references with jobs |
+| `cadabra-cinema-craft` | Camera, lens, light, palette and emotion chosen on purpose and held across a film |
+| `cadabra-local-business` | A phone photo and a sentence from a local business into a week of posts and one real ad |
+| `cadabra-events-and-memories` | Birthday, wedding, memorial and holiday films made with care from real photos |
+| `cadabra-publish-safely` | AI label, faces, music, claims and size checked before anything goes public |
+| `cadabra-learn-from-results` | Read the numbers, decide what to repeat, change and stop, feed it into the next batch |
+| `cadabra-editor-handoff` | Premiere and Final Cut sequences, After Effects by sentence, layers, depth and cut-outs |
 | `cadabra-film-director` | A short film, trailer or story reel from one idea to a finished edit |
 | `cadabra-viral-remake` | Your own version of a viral video, on its measured rhythm |
 | `cadabra-micro-drama` | Vertical drama episodes with a cast that stays the same |
@@ -65,7 +78,7 @@ Reading, planning and checking are free. Anything that generates (pictures, vide
 
 **סקילים שמוציאים תוצאה שאפשר לפרסם, לא פרומפט שצריך לתקן.**
 
-25 סקילים ל-Claude, ל-ChatGPT ול-Claude Code שעובדים דרך הקונקטור של [Cadabra AI](https://www.livinginmovie.com): סרטים, רימייק לסרטון ויראלי, מיקרו דרמות, קליפים מוזיקליים, פרסומות UGC, צילומי מוצר, קאברים ומצגות, בעברית ובאנגלית.
+38 סקילים ל-Claude, ל-ChatGPT ול-Claude Code שעובדים דרך הקונקטור של [Cadabra AI](https://www.livinginmovie.com): סרטים, רימייק לסרטון ויראלי, מיקרו דרמות, קליפים מוזיקליים, פרסומות UGC, צילומי מוצר, קאברים ומצגות, בעברית ובאנגלית.
 
 ## למה התוצאות אחרות
 

@@ -27,6 +27,15 @@ example: a Monday tip, a Wednesday before-and-after, a Friday story). Each serie
   same ending, so the grid and the feed look like one account (cadabra-brand-and-cast).
 - A rule for the caption: hook line, one clear call to action, the same hashtags.
 
+## 2b. Score the ideas, then choose
+
+Give every idea a score from 1 to 10 for impact on the customer (40 percent), fit with
+the brand (30), reach potential (20) and effort (10), and tag it searchable, shareable
+or both. Build the month about 60 percent searchable, 30 percent shareable and 10
+percent experiments. One flagship piece per week, repurposed across the networks. A
+sample mix for a personal account: insight, behind the scenes, teaching, personal,
+and only a little promotion.
+
 ## 3. Fill the calendar (free to plan)
 
 cadabra_social_month with the month, the goal, the networks, the occasions that matter

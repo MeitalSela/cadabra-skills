@@ -48,6 +48,23 @@ Show the beats beside the free preview and its price, so one yes approves both.
   face stays theirs, the words are theirs. Show the frame, then the video call and its
   price.
 
+## 3b. A story spine a beginner can fill in
+
+"Once upon a time ... Every day ... Until one day ... Because of that ... (repeat) ...
+Until finally ... And ever since then ...". One sentence per beat becomes the shot list.
+For an ad, match the viewer's awareness: someone who does not know they have the
+problem gets a hook that stirs a feeling, not a pitch; someone who already knows the
+product gets the shortest ad and the offer.
+
+## 3c. The timed script for a 30 to 45 second video
+
+0 to 3 seconds the hook, said, shown and written on screen at once; 3 to 8 the stakes;
+8 to 25 one to three payoff beats; 25 to 35 one call to action. About 80 to 120 spoken
+words. Open a question in the first three seconds and close it at the end. One idea and
+one payoff per video: a second idea is a second video. Cut any beat that neither moves
+the idea nor resets attention, and change something on screen every few seconds (a
+cut, a zoom, a new frame).
+
 ## 4. A proven shape, when they want a series
 
 cadabra_viral_formats lists short-form shapes measured working across platforms, the
